@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Australia and New Zealand** <span id="12"></span> 
 *Australia and New Zealand have flora and fauna that are found nowhere
 else on Earth.  Australia is an island, a country, and a continent – the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: East Asia** <span id="10"></span> 
 *East Asia is home to one-fifth of the entire world population, with
 China being the largest country in the realm.  The countries of

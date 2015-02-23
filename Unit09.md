@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: South Asia** <span id="9"></span> 
 *Of the world’s seven continents, Asia is the largest.  Its physical
 landscapes, political units, and ethnic groups are both numerous and

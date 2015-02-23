@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Southeast Asia** <span id="11"></span> 
 *The region between China, India, Australia, and the Pacific Ocean is
 known as Southeast Asia.  Political borders in Southeast Asia were

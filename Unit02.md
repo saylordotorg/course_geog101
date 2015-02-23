@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Europe** <span id="2"></span> 
 *An understanding of the formation of Europe as we know it today – from
 the dawn of the Roman Empire to the emergence of the European Union (EU)

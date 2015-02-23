@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Middle America** <span id="5"></span> 
 *Middle America, the geographic realm between the United States and the
 continent of South America, consists of three main regions: the

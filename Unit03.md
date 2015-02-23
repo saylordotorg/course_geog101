@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Russian Realm** <span id="3"></span> 
 *Russia is the largest country in the world in terms of physical area –
 almost twice the size of the United States.  The country is so large in

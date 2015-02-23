@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: North America** <span id="4"></span> 
 *The realm of North America extends from the polar regions of the Arctic
 in northern Canada and Alaska, all the way south through Mexico and the

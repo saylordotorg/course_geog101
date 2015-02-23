@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Sub-Saharan Africa** <span id="7"></span> 
 *Sub-Saharan Africa includes the African countries south of the Sahara
 Desert.  This unit will also include many of the countries in the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: North Africa & Southwest Asia** <span id="8"></span> 
 *The realm of North Africa and Southwest Asia is large and expansive in
 terms of physical area, but its regions share a number of common

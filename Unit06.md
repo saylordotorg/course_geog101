@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: South America** <span id="6"></span> 
 *The continent of South America has diverse physical landscapes, from
 the high Andes Mountains to the tropical forests of the Amazon Basin. 

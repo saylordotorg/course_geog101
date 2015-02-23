@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit15
+previous: ../Unit13
+---
 **Unit 14: Course Conclusion and Globalization** <span id="14"></span> 
 *This World Regional Geography course has taken you from continent to
 continent and country to country.  Along our journey, we have explored

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "GEOG101: World Regional Geography"
+course_description: "An examination of the physical and human characteristics that make the regions of our world distinctive, placing particular emphasis on cultural and societal structures."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: The Pacific and Antarctica** <span id="13"></span> 
 *Almost all of Antarctica rests south of the Antarctic Circle,
 surrounded by the Southern Ocean.  The closest continent to Antarctica
