@@ -130,9 +130,9 @@ Upon successful completion of this unit, the student will be able to:
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s World Regional Geography: “Course Introduction”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Course
     Introduction”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
@@ -336,10 +336,10 @@ Australia and the Pacific (Unit 12).*
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “Chapter 2: The Changing
     Global Environment”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Chapter 2: The Changing Global
     Environment”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
@@ -498,9 +498,9 @@ Focus on the text below the heading, “Tectonic Plates.”*
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “Chapter 1: Part 1”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Chapter 1: Part
     1”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
@@ -586,9 +586,9 @@ population growth trend appears.*
 *Note: This topic is covered by the reading assigned below subunit 1.3.
  Focus on the text below the heading, “Culture and Ethnicity.”*
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “Chapter 1: Part 2”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Chapter 1: Part
     2”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
