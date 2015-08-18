@@ -108,7 +108,7 @@ following resources:
     Games”](http://www.sheppardsoftware.com/Geography.htm)
 -   [*World Regional Geography: People, Places, and
     Globalization*](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
--   iTunes U: University of Binghamton: Professor Mark Reisinger’s
+-   iTunes U: Binghamton University: Professor Mark Reisinger’s
     [World Regional
     Geography](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     Video Lectures (iTunes U)
