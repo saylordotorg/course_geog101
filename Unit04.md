@@ -532,9 +532,9 @@ versus French Canada.”*
 4.4. * *In particular, focus on the text below the heading, “Other
 Ethnic Groups in Canada.”*
 
--   **Lecture: iTunes U: University of Binghamton: “Ethnic Fragmentation
+-   **Lecture: iTunes U: Binghamton University: “Ethnic Fragmentation
     in Canada”**
-    Link: iTunes U: University of Binghamton: [“Ethnic Fragmentation in
+    Link: iTunes U: Binghamton University: [“Ethnic Fragmentation in
     Canada”](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=452529799)
     (iTunes U)  
         
