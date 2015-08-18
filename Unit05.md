@@ -111,10 +111,10 @@ Upon successful completion of this unit, the student will be able to:
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “Latin America: Parts 1 and
     2”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Latin America: Parts 1 and
     2”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
@@ -506,10 +506,10 @@ and the Panama Canal.”*
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “The Caribbean: Parts 1 and
     2”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “The Caribbean: Parts 1 and
     2”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
