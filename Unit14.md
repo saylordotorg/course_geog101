@@ -25,9 +25,9 @@ Upon successful completion of this unit, the student will be able to:
     geographies, especially with respect to economics, politics, and
     culture.
 
--   **Lecture: iTunes U: University of Binghamton: Professor Mark
+-   **Lecture: iTunes U: Binghamton University: Professor Mark
     Reisinger’s “World Regional Geography:” “Course Conclusions”**
-    Link: iTunes U: University of Binghamton: Professor Mark Reisinger’s
+    Link: iTunes U: Binghamton University: Professor Mark Reisinger’s
     [“World Regional Geography:” “Course
     Conclusions”](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)
     (iTunes U)  
