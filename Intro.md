@@ -196,3 +196,4 @@ will make the learning process much more engaging and efficient. 
 - [Unit 13](https://legacy.saylor.org/geog101/Unit13/)
 - [Unit 14](https://legacy.saylor.org/geog101/Unit14/)
 - [Unit 15](https://legacy.saylor.org/geog101/Unit15/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/GEOG101/GEOG101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/GEOG101/GEOG101-FinalExam-Answers.html)
