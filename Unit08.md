@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.1:
     Introducing the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section
@@ -282,7 +282,7 @@ In particular, focus on the text below the heading, “Arab Spring of
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.2:
     Muhammad and
-    Islam”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Islam”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.2
@@ -367,7 +367,7 @@ id="8.3"></span> 
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.3: North
     Africa and the African Transition
-    Zone”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Zone”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.3
@@ -515,7 +515,7 @@ Union.”*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.4: Israel
     and Its
-    Neighbors”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Neighbors”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.4
@@ -607,7 +607,7 @@ Israel.*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.5: Arabs,
     Islam, and
-    Oil”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Oil”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.5
@@ -685,7 +685,7 @@ Sultanate of Oman.”*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.6: Iraq,
     Turkey, and
-    Iran”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Iran”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.6
@@ -829,7 +829,7 @@ Resources.”*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 8: North Africa and Southwest Asia:” [“Section 8.7: Central
     Asia and
-    Afghanistan”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Afghanistan”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.7
