@@ -71,7 +71,7 @@ Upon successful completion of this unit, the student will be able to:
     Introducing the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 11: Southeast Asia:” [“Section 11.1: Introducing the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 11.1
@@ -157,7 +157,7 @@ id="11.1.4.3"></span> 
     Mainland Countries”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 11: Southeast Asia:” [“Section 11.2: The Mainland
-    Countries”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Countries”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 11.2
@@ -233,7 +233,7 @@ id="11.3"></span> 
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 11: Southeast Asia:” [“Section 11.3: The Insular Region
     (Islands of Southeast
-    Asia)”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Asia)”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 11.3

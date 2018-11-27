@@ -147,7 +147,7 @@ Upon successful completion of this unit, the student will be able to:
     to the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 9: South Asia:” [“Section 9.1: Introduction to the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 9.1
@@ -267,7 +267,7 @@ Asia and India.”   *
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 9: South Asia:” [“Section 9.2: The Peripheral States of
     South
-    Asia”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Asia”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 9.2
@@ -390,7 +390,7 @@ In particular, focus on the text below the heading, “The Maldives.”   *
     Bangladesh”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 9: South Asia:” [“Section 9.3: Pakistan and
-    Bangladesh”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Bangladesh”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 9.3
@@ -497,7 +497,7 @@ Bangladesh.”*
     Globalization: “Chapter 9: South Asia:” “Section 9.4: India”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 9: South Asia:” [“Section 9.4:
-    India”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    India”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 9.4
@@ -607,7 +607,7 @@ the Environment.”   *
     India and South Asia”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 9: South Asia:” [“Section 9.5: Religions of India and South
-    Asia”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Asia”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 9.5

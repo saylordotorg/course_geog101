@@ -119,7 +119,7 @@ Upon successful completion of this unit, the student will be able to:
     Realm”**
     Link: *World Regional Geography: People, Places and Globalization:*
     “Chapter 2: Europe:” [“Section 2.1: Introducing the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 2.1
@@ -232,7 +232,7 @@ in Europe.”*
     Development Patterns”**
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 2: Europe:” [“Section 2.2: Historical Development
-    Patterns”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Patterns”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 2.2
@@ -370,7 +370,7 @@ Language in Europe.”*
     and Supranationalism”**
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 2: Europe:” [“Section 2.3: The European Union and
-    Supranationalism”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Supranationalism”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 2.3
@@ -448,7 +448,7 @@ Union.”*
     Europe”**
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 2: Europe:” [“Section 2.4: Regions of Western
-    Europe”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Europe”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 2.4
@@ -652,7 +652,7 @@ Ireland.”*
     Globalization: “Chapter 2: Europe:” “Section 2.5: Eastern Europe”**
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 2: Europe:” [“Section 2.5: Eastern
-    Europe”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Europe”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Click on the link above, and read Section 2.5 in its

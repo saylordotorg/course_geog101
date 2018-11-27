@@ -105,7 +105,7 @@ style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill San
  <span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 16px; line-height: 24px;">√
    </span>Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -122,7 +122,7 @@ following resources:
 -   Sheppard Software: [“Geography
     Games”](http://www.sheppardsoftware.com/Geography.htm)
 -   [*World Regional Geography: People, Places, and
-    Globalization*](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Globalization*](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
 -   iTunes U: Binghamton University: Professor Mark Reisinger’s
     [World Regional
     Geography](http://itunes.apple.com/itunes-u/geog151-world-regional-geography/id393916918?mt=2)

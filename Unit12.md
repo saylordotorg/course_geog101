@@ -110,7 +110,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 12: Australia and New Zealand:” [“Section 12.1: Introducing
     the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 12.1
@@ -178,7 +178,7 @@ Geography.”   *
     12.2: Australia”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 12: Australia and New Zealand:” [“Section 12.2:
-    Australia”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Australia”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 12.2
@@ -242,7 +242,7 @@ Future.”   *
     12.3: New Zealand”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 12: Australia and New Zealand:” [“Section 12.3: New
-    Zealand”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Zealand”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 12.3

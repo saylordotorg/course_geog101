@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
     the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 10: East Asia:” [“Section 10.1: Introducing the
-    Realm”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 10.1
@@ -223,7 +223,7 @@ id="10.1.4.2"></span> 
     China”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 10: East Asia:” [“Section 10.2: Emerging
-    China”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    China”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 10.2
@@ -365,7 +365,7 @@ Groups.” *
     Periphery”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 10: East Asia:” [“Section 10.3: China’s
-    Periphery”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    Periphery”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 10.3
@@ -440,7 +440,7 @@ the heading, “Autonomous Region of Tibet.”*
     Korea (North and South)**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 10: East Asia:” [“Section 10.4: Japan and Korea (North and
-    South)”](http://www.saylor.org/site/textbooks/World%20Regional%20Geography.pdf)
+    South)”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 10.4
