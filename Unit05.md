@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
     Introducing the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 5: Middle America:” [“Section 5.1: Introducing the
-    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.1
@@ -193,7 +193,7 @@ Colonial City.”*
     Globalization: “Chapter 5: Middle America:” “Section 5.2: Mexico”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 5: Middle America:” [“Section 5.2:
-    Mexico”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Mexico”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.2
@@ -304,7 +304,7 @@ Drug Trafficking in Mexico.”*
     America”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 5: Middle America:” “[Section 5.3: Central
-    America](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)”
+    America](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.3
@@ -482,7 +482,7 @@ and the Panama Canal.”*
     Caribbean”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 5: Middle America:” [“Section 5.4: The
-    Caribbean”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Caribbean”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.4
@@ -595,7 +595,7 @@ id="5.5"></span> 
     Cyclones (Hurricanes)”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 5: Middle America:” [“Section 5.5: Tropical Cyclones
-    (Hurricanes)”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    (Hurricanes)”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.5

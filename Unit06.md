@@ -65,7 +65,7 @@ Upon successful completion of this unit, the student will be able to:
     the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 6: South America:” [“Section 6.1: Introducing the
-    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 6.1
@@ -194,7 +194,7 @@ Trade.”*
     and Andean West”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 6: South America:” [“Section 6.2: Urban North and Andean
-    West”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    West”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
       
      Instructions: Please click on the link above, and read Section 6.2
@@ -280,7 +280,7 @@ Geography.”*
     Globalization: “Chapter 6: South America:” “Section 6.3: Brazil”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 6: South America:” [“Section 6.3:
-    Brazil”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Brazil”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 6.3
@@ -330,7 +330,7 @@ In particular, focus on the text below the heading, “Regional Brazil.”*
     Southern Cone”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 6: South America:” [“Section 6.4: The Southern
-    Cone”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Cone”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 6.4

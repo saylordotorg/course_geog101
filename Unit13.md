@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 13: The Pacific and Antarctica:” [“Section 13.1: The
     Pacific
-    Islands”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Islands”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 13.1
@@ -253,7 +253,7 @@ Pitcairn Islands, Easter Island, and the Cook Islands.”*
     13.2: The Antarctica”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 13: The Pacific and Antarctica:” [“Section 13.2: The
-    Antarctica”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Antarctica”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 13.2
