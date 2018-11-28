@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
     the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 4: North America:” [“Section 4.1: Introducing the
-    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 4.1
@@ -166,7 +166,7 @@ id="4.2"></span> 
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 4: North America:” [“Section 4.2: United States: Early
     Development and
-    Globalization”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Globalization”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 4.2
@@ -403,7 +403,7 @@ In particular, focus on the fourth paragraph below the heading,
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 4: North America:” [“Section 4.3: United States: Population
     and
-    Religion”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Religion”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 4.3
@@ -479,7 +479,7 @@ of Religion in the United States.”*
     Globalization: “Chapter 4: North America:” “Section 4.4: Canada”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 4: North America:” [“Section 4.4:
-    Canada”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Canada”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 4.4
@@ -569,7 +569,7 @@ Canadian Economy.”*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 4: North America:” [“Section 4.5: Regions of the United
     States and
-    Canada”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Canada”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 4.5

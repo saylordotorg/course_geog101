@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
     Introducing the Realm”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” [“Section 7.1: Introducing the
-    Realm”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Realm”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.1
@@ -270,7 +270,7 @@ below subunit 7.1.  In particular, focus on the text below the heading,
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” “[Section 7.2: Geography of
     Sub-Saharan
-    Africa](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)”
+    Africa](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.2
@@ -342,7 +342,7 @@ id="7.3"></span> 
     Africa”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” [“Section 7.3: West
-    Africa”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Africa”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.3
@@ -438,7 +438,7 @@ id="7.4"></span> 
     Central Africa”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” [“Section 7.4: Central
-    Africa”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Africa”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.4
@@ -491,7 +491,7 @@ id="7.5"></span> 
     Africa”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” [“Section 7.5: East
-    Africa”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Africa”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.6
@@ -568,7 +568,7 @@ id="7.6"></span> 
     Sub-Saharan Africa”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 7: Sub-Saharan Africa:” [“Section 7.6: Sub-Saharan
-    Africa”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Africa”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 7.6

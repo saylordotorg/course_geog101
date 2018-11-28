@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
     Geography Basics”**
     Link: *World Regional Geography: People, Places, and Globalization*:
     [“Chapter 1: Introduction to the World:” “Section 1.1: Geography
-    Basics”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read the Chapter
@@ -311,7 +311,7 @@ Australia and the Pacific (Unit 12).*
     Link: *World Regional Geography: People, Places, and Globalization*:
     “Chapter 1: Introduction to the World:”[“Section: 1.2: The
     Environment and Human
-    Activity”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section
@@ -454,7 +454,7 @@ Focus on the text below the heading, “Tectonic Plates.”*
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 1: Introduction to the World:” [“Section 1.3: Population
     and
-    Culture”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf) (PDF)  
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read Section 1.3
     in its entirety.  Before you begin the reading and lecture
@@ -807,7 +807,7 @@ surrounding the bolded terms, “tribal” and “animism.”*
     Link: *World Regional Geography: People, Places, and Globalization:*
     “Chapter 1: Introduction to the World:” [“Section 1.4: Globalization
     and
-    Development”](https://resources.saylor.org/archived/textbooks/World%20Regional%20Geography.pdf)
+    Development”](https://resources.saylor.org/wwwresources/archived/site/textbooks/World%20Regional%20Geography.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read Section 1.4
